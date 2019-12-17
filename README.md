@@ -7,3 +7,7 @@
 ### Updating UIs: value comparison VS mutation tracking
 - [оригинал](https://itnext.io/updating-uis-value-comparison-vs-mutation-tracking-9f6fe912dd9a)
 - [перевод](Updating_UIs.md)
+
+### CSS Architecture for Modern JavaScript Applications
+- [оригинал](https://www.madebymike.com.au/writing/css-architecture-for-modern-web-applications/)
+- [перевод](CSSArchitecture.md)
